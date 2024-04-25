@@ -1,6 +1,6 @@
 
 # AtliQ Fashion Studios: Natural Language to SQL Database Interface
-
+## End-to-End LLM project for a Retail domain
 
 Welcome to AtliQ Fashion Studios, an end-to-end project that leverages Google PaLM and LangChain to create an intelligent system that converts natural language questions into SQL queries, executes them on a MySQL database, and returns the results. This project is ideal for store managers and analysts who need quick answers to questions about inventory, sales, and discounts.
 
